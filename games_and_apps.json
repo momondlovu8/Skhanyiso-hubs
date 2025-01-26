@@ -1,0 +1,164 @@
+[
+    {
+        "img": "https://example.com/roblox.jpg",
+        "name": "Roblox Adventure",
+        "category": "Simulation",
+        "link": "https://play.google.com/store/apps/details?id=com.roblox.client",
+        "rating": 4.5
+    },
+    {
+        "img": "https://example.com/subway.jpg",
+        "name": "Subway Surfers",
+        "category": "Action",
+        "link": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf",
+        "rating": 4.6
+    },
+    {
+        "img": "https://example.com/pokemon.jpg",
+        "name": "Pokémon TCG Pocket - Card Game",
+        "category": "Card battler",
+        "link": "https://play.google.com/store/apps/details?id=com.pokemon.pokemontcg",
+        "rating": 4.2
+    },
+    {
+        "img": "https://example.com/candycrush.jpg",
+        "name": "Candy Crush Saga",
+        "category": "Puzzle",
+        "link": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga",
+        "rating": 4.5
+    },
+    {
+        "img": "https://example.com/clashofclans.jpg",
+        "name": "Clash of Clans",
+        "category": "Strategy",
+        "link": "https://play.google.com/store/apps/details?id=com.supercell.clashofclans",
+        "rating": 4.7
+    },
+    {
+        "img": "https://example.com/asphalt.jpg",
+        "name": "Asphalt 9: Legends",
+        "category": "Racing",
+        "link": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA9HM",
+        "rating": 4.3
+    },
+    {
+        "img": "https://example.com/pubg.jpg",
+        "name": "PUBG Mobile",
+        "category": "Action",
+        "link": "https://play.google.com/store/apps/details?id=com.tencent.ig",
+        "rating": 4.4
+    },
+    {
+        "img": "https://example.com/amongus.jpg",
+        "name": "Among Us",
+        "category": "Party",
+        "link": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia",
+        "rating": 4.6
+    },
+    {
+        "img": "https://example.com/fortnite.jpg",
+        "name": "Fortnite",
+        "category": "Battle Royale",
+        "link": "https://www.epicgames.com/fortnite/en-US/home",
+        "rating": 4.8
+    },
+    {
+        "img": "https://example.com/minecraft.jpg",
+        "name": "Minecraft",
+        "category": "Adventure",
+        "link": "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe",
+        "rating": 4.6
+    },
+    {
+        "img": "https://example.com/templerun.jpg",
+        "name": "Temple Run",
+        "category": "Action",
+        "link": "https://play.google.com/store/apps/details?id=com.imangi.templerun",
+        "rating": 4.1
+    },
+    {
+        "img": "https://example.com/helixjump.jpg",
+        "name": "Helix Jump",
+        "category": "Arcade",
+        "link": "https://play.google.com/store/apps/details?id=com.h8games.helixjump",
+        "rating": 4.2
+    },
+    {
+        "img": "https://example.com/angrybirds.jpg",
+        "name": "Angry Birds",
+        "category": "Casual",
+        "link": "https://play.google.com/store/apps/details?id=com.rovio.angrybirds",
+        "rating": 4.4
+    },
+    {
+        "img": "https://example.com/tetris.jpg",
+        "name": "TETRIS",
+        "category": "Puzzle",
+        "link": "https://play.google.com/store/apps/details?id=com.n3twork.tetris",
+        "rating": 4.3
+    },
+    {
+        "img": "https://example.com/callofduty.jpg",
+        "name": "Call of Duty Mobile",
+        "category": "Action",
+        "link": "https://play.google.com/store/apps/details?id=com.activision.callofduty.shooter",
+        "rating": 4.6
+    },
+    {
+        "img": "https://example.com/brawlstars.jpg",
+        "name": "Brawl Stars",
+        "category": "Action",
+        "link": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars",
+        "rating": 4.5
+    },
+    {
+        "img": "https://example.com/genshin.jpg",
+        "name": "Genshin Impact",
+        "category": "Adventure",
+        "link": "https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact",
+        "rating": 4.7
+    },
+    {
+        "img": "https://example.com/ludo.jpg",
+        "name": "Ludo King",
+        "category": "Board",
+        "link": "https://play.google.com/store/apps/details?id=com.ludo.king",
+        "rating": 4.3
+    },
+    {
+        "img": "https://example.com/fruitninja.jpg",
+        "name": "Fruit Ninja",
+        "category": "Arcade",
+        "link": "https://play.google.com/store/apps/details?id=com.halfbrick.fruitninjafree",
+        "rating": 4.4
+    },
+    {
+        "img": "https://example.com/plantsvszombies.jpg",
+        "name": "Plants vs Zombies",
+        "category": "Strategy",
+        "link": "https://play.google.com/store/apps/details?id=com.ea.game.pvzfree_row",
+        "rating": 4.5
+    },
+    {
+        "img": "https://example.com/monumentvalley.jpg",
+        "name": "Monument Valley",
+        "category": "Puzzle",
+        "link": "https://play.google.com/store/apps/details?id=com.ustwo.monumentvalley",
+        "rating": 4.8
+    },
+    {
+        "img": "https://example.com/candycrushsoda.jpg",
+        "name": "Candy Crush Soda Saga",
+        "category": "Puzzle",
+        "link": "https://play.google.com/store/apps/details?id=com.king.candycrushsodasaga",
+        "rating": 4.5
+    },
+    {
+        "img": "https://example.com/cuttherope.jpg",
+        "name": "Cut the Rope",
+        "category": "Puzzle",
+        "link": "https://play.google.com/store/apps/details?id=com.zeptolab.ctr.ads",
+        "rating": 4.7
+    }
+    // Add more entries here
+]
